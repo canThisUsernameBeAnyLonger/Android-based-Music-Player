@@ -1,0 +1,51 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="#ffffff"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:src="@drawable/preview2"
+        android:id="@+id/proPic"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/proPic"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Deepak Bibyan"
+        android:textStyle="italic"
+        android:textColor="#360951"
+        android:textSize="16sp"
+        android:id="@+id/txtName"
+        android:textAllCaps="true"
+        android:layout_marginBottom="5dp"
+        />
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text=
+            "This App Was Designed during the Summer Training Program.
+            251702157 (CSE-B)"
+        android:layout_below="@id/txtName"
+        android:textAlignment="center"
+        android:textSize="11sp"
+        android:textStyle="normal"
+        />
+
+
+
+</RelativeLayout>

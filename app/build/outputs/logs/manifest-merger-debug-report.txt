@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\30acc7a6fda1e55f7c25cbfac9e74ad1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\329a9f3fef59a9935cde4f38667f2ac2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:9:22-68
+uses-feature#0x00020000
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:11:5-78
+	android:glEsVersion
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:11:19-51
+	android:required
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:11:52-75
+application
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:13:5-37:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\329a9f3fef59a9935cde4f38667f2ac2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\329a9f3fef59a9935cde4f38667f2ac2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.aks.echo.Activities.MainActivity
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:screenOrientation
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:21:13-52
+meta-data#android.app.searchable
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:25:13-26:54
+	android:resource
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:26:17-51
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:25:24-61
+activity#com.example.aks.echo.Activities.splashActivity
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:30:13-49
+	android:theme
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:28:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Echo\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\30acc7a6fda1e55f7c25cbfac9e74ad1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\30acc7a6fda1e55f7c25cbfac9e74ad1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\329a9f3fef59a9935cde4f38667f2ac2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\329a9f3fef59a9935cde4f38667f2ac2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Echo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\647af5ea9b2de1cfaea436cec0b54037\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6651ee5e78d36f48eb38e8d1813b5d4f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bb02446fb38e2df6976a0bf5174c4161\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\705fdd67748c656a2217c22f31f47bbf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b82385dc30994a978b6036d8eb095f30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\743a6b0a07666c6728fa9b466ae4b5dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e106649a5157a520b5d712657b252a6a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e2831a202a61b5982f6809e6b2874a22\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\547933cea38ae2482b3eae06044d2304\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9b9ebdd115d61767abb5dfafca08889f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1d9347ae52ae2ad31105101f16baa644\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e7de9681b7d72f5064aba2cee4863bdb\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Deepak\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cf3c0a4527786f4417d257d5c807cef7\AndroidManifest.xml:26:13-58
